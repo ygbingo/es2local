@@ -28,7 +28,11 @@ AUTH = "Basic YYYYYYYY=="  # change your es auth
 ...
 ```
 
-4. Run demo.py
+4. Make sure result folder. The default result folder named "crawler_results". Make sure you have this folder in the repo.
+
+5. Run demo.py
 ```shell
 python demo.py
 ```
+
+
